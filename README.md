@@ -14,3 +14,4 @@ Estimate the number of excess deaths from 17 underlying causes of death from Mar
 - summary.csv: Observed, expected, and excess death counts and rates, and correlation between the trend in excess deaths and the trend in deaths from COVID-19, by underlying cause of death and geographic region. Note: state-level data are suppressed in compliance with the Public Health Services Act (42 U.S.C. 242m(d)).
 - ExpectedDeathsByCOD.pptx: Plots of observed and expected death rates by year, month, underlying cause of death, and geographic region. Note: state-level data are suppressed in compliance with the Public Health Services Act (42 U.S.C. 242m(d)).
 - ExcessDeathsByCOD.pptx: Plots of excess death counts by month, underlying cause of death, and state or geographic region.
+- ModelFit.pptx: Visual assessment of model fit based on observed vs. model-predicted death rates from March-December 2019.
