@@ -8,6 +8,7 @@ Estimate the number of excess deaths from 17 underlying causes of death from Mar
 **Code:**
 - import.sas: Import mortality micro-data.
 - analysis.sas: Create analytic dataset; output tables and figures.
+- formats.sas: Variable formats.
 - excessdeaths.R: Fit time series models to estimate expected and excess death rates by month, state/region, and underlying cause of death.
 
 **Results:**
